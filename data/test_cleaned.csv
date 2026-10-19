@@ -1,4 +1,4 @@
-tweet,sarcasm,sentiment,dialect,cleaned_text
+tweet,sarcasm,sentiment,dialect,cleaned_tweet
 "اخوي حانق يالغلا وشفيك معصب؟ عادي تراهم بشر يفطرون الصبح قلابة وتميس, تيك ات ايزي مان, RELAX  ",False,NEG,msa,"اخوي حانق يالغلا وشفيك معصب؟ عادي تراهم بشر يفطرون الصبح قلابة وتميس, تيك ات ايزي مان, RELAX"
 اف مو متعوده عليهم سته https://t.co/8igFPx1i26,True,NEG,msa,اف مو متعوده عليهم سته
 اللهم اشفِ مرضانا ومرضى المسلمين . . ♥️,False,POS,msa,اللهم اشفِ مرضانا ومرضى المسلمين . . ♥️
