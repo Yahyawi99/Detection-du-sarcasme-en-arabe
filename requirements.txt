@@ -1,0 +1,19 @@
+# Core data science stack
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# PyTorch and NLP
+torch
+transformers
+sentencepiece
+
+# Arabic text processing
+arabert
+pyarabic
+emoji
+gensim
+
+# Notebook support
+jupyter
